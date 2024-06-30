@@ -1,5 +1,5 @@
 // Bot API Key
-const BOT_TOKEN = "6098093054:AAHO-mgF3LZW7MwV04_e7uOMXpT0-RumVtQ";
+const BOT_TOKEN = "7251893754:AAF92DxdVrPI44K0i8MDyjHfY4coj6YfoUk";
 
 // Your Telegram USER ID
 const USERID = "6399386263";
